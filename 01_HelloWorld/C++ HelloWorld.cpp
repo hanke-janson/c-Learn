@@ -5,7 +5,8 @@ using namespace std;
 // 宏常量 - 通常在文件上方定义
 #define DAY 7
 
-int main() {
+int main() 
+{
 	std::cout << "Hello World !";
 	std::cout << 4;
 	// 常量 - const修饰的变量

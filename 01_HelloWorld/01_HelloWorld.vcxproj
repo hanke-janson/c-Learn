@@ -128,9 +128,6 @@
   <ItemGroup>
     <ClCompile Include="C++ HelloWorld.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="demo1.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
